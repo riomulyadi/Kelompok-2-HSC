@@ -1,0 +1,5 @@
+google-cloud-pubsub
+cryptography
+pyjwt
+paho-mqtt
+google-cloud
